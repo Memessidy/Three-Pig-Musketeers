@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Decisions.md",
+                "file": "02 Characters/Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Decisions"
+              "title": "Characters"
             }
           }
         ]
@@ -184,6 +184,13 @@
   },
   "active": "75d3beaf4bf3bbff",
   "lastOpenFiles": [
+    "02 Characters/Profiles/Archibald.md",
+    "02 Characters/Characters.md",
+    "02 Characters/Profiles/Tolyan.md",
+    "01 Canon/Canon.md",
+    "Новий Текстовий документ.txt",
+    "04 Chapters/Chapter 01.md",
+    "Project Decisions.md",
     "08 History/Development Diary.md",
     "05 Ideas/Easter Eggs.md",
     "05 Ideas/Jokes.md",
@@ -191,7 +198,6 @@
     "05 Ideas/Ideas.md",
     "04 Chapters/Chapter 02.md",
     "04 Chapters/Synopsis.md",
-    "04 Chapters/Chapter 01.md",
     "03 World/Traditions.md",
     "03 World/History.md",
     "03 World/Magic.md",
@@ -200,16 +206,10 @@
     "02 Characters/Profiles/Nuf-Nuf.md",
     "02 Characters/Profiles/Naf-Naf.md",
     "02 Characters/Profiles/Don Simon.md",
-    "02 Characters/Profiles/Archibald.md",
     "02 Characters/Profiles/Snowy Wolf.md",
-    "02 Characters/Profiles/Tolyan.md",
-    "02 Characters/Characters.md",
     "01 Canon/Symbols.md",
     "01 Canon/Rules.md",
-    "01 Canon/Canon.md",
     "00 Project/ROADMAP.md",
-    "00 Project/TODO.md",
-    "00 Project/README.md",
     "07 References/Tolyan.jpg",
     "06 Illustrations/VideoCapture_20250407-175456.jpg",
     "02 Characters/Profiles",
@@ -220,7 +220,6 @@
     "05 Ideas",
     "04 Chapters",
     "03 World",
-    "02 Characters",
-    "01 Canon"
+    "02 Characters"
   ]
 }
