@@ -61,4 +61,4 @@
 
 ## Визуальные референсы
 
-![[Tolyan.jpg]]
+![[07 References/Characters/Tolyan.jpg]]
