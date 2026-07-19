@@ -1,11 +1,5 @@
-# Obsidian workspace state
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
-
-# Installed plugin code
-.obsidian/plugins/*/main.js
-.obsidian/plugins/*/styles.css
+# Local Obsidian settings
+.obsidian/
 
 # System files
 .DS_Store
